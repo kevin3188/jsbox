@@ -16,10 +16,10 @@
         ["soku.com", 2]
     ],
     "apis": [
-        "http://vip.jlsprh.com/index.php?url=",
-        "http://www.82190555.com/index/qqvod.php?url=",
-        "http://api.ledboke.com/vip/?url=",
-        "http://www.82190555.com/index/qqvod.php?url="
+        "https://www.nxflv.com/?url=",
+        "https://parse.mw0.cc/?url=",
+        "https://jx.aidouer.net/?url=",
+        "https://api.okjx.cc:3389/jx.php?url="
     ]
 }
     "urls": [
