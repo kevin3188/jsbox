@@ -1,0 +1,28 @@
+{
+    "shortcuts": "https://www.icloud.com/shortcuts/e573c71199f849c798dc9a6ad9170cb7",
+    "items": [
+        "腾讯视频",
+        "爱奇艺",
+        "优酷",
+        "芒果TV"
+    ],
+        "https://www.mgtv.com"
+    ],
+    "keys": [
+        ["qq.com", 0],
+        ["iqiyi.com", 1],
+        ["youku.com", 2],
+        ["mgtv.com", 3],
+        ["soku.com", 2]
+    ],
+    "apis": [
+        "http://vip.jlsprh.com/index.php?url=",
+        "http://www.82190555.com/index/qqvod.php?url=",
+        "http://api.ledboke.com/vip/?url=",
+        "http://www.82190555.com/index/qqvod.php?url="
+    ]
+}
+    "urls": [
+        "https://v.qq.com",
+        "https://www.iqiyi.com",
+        "https://www.youku.com",
